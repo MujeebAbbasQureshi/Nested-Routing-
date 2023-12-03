@@ -6,7 +6,7 @@ import { useState } from 'react'
 export default function Home() {
   return (
 <>
-<h1>Hello World</h1>
+<h1>World</h1>
 <br/>
 <Link href="/login">Go to Login page</Link>
 <br/>
